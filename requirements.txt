@@ -1,8 +1,8 @@
-pandas
-plotly
-matplotlib
 dash
 flask
+matplotlib
 numpy
+pandas
+plotly
 seaborn
 sklearn
